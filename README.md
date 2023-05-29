@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Véronie Cazeau</h1>
+<h1 align="center">Hi 👋, I'm Véronie Cazeau 👩🏽‍💻 </h1>
 <h3 align="center">A passionate fullstack software engineer!</h3>
 
 - 📫 How to reach me **veronie.cazeau@gmail.com**
